@@ -1,8 +1,9 @@
-html lang="en">
+<html lang="en">
 <head>
   <title><b>Environmental Awareness Lessons</b></title>
 </head>
 <body>
+ <img src="  https://www.vecteezy.com/free-photos/environmental-awareness  alt="nature Image" class="nature-image">
 
   <header>
     <h1><b><i>Environmental Awareness</b></i></h1>
