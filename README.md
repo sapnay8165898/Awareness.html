@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-  <title><b>Environmental Awareness Lessons</b></title>
+  <title>Environmental Awareness Lessons</title>
 </head>
 <body>
  <img src="  https://www.vecteezy.com/free-photos/environmental-awareness  alt="nature Image" class="nature-image">
